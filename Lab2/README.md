@@ -1,6 +1,6 @@
-## Лабораторная работа №2
+# Лабораторная работа №2
 
-#### Задание 1 
+## Задание 1 
 ![](https://github.com/igritt13/LabY/blob/master/images/za1%3B2.png)
 ![](https://github.com/igritt13/LabY/blob/master/images/za1%3B3.png)
 ![](https://github.com/igritt13/LabY/blob/master/images/za1%3B4.png)
@@ -14,7 +14,7 @@
 ![](https://github.com/igritt13/LabY/blob/master/images/za1%3B12.png)
 ![](https://github.com/igritt13/LabY/blob/master/images/za1%3B14.png)  
 
-#### Задание 2  
+## Задание 2  
 ![](https://github.com/igritt13/LabY/blob/master/images/15.png)  
 ![](https://github.com/igritt13/LabY/blob/master/images/16.png)  
 ![](https://github.com/igritt13/LabY/blob/master/images/17.png)  
