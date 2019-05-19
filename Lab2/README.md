@@ -13,6 +13,7 @@
 ![](https://github.com/igritt13/LabY/blob/master/images/za1%3B11.png)
 ![](https://github.com/igritt13/LabY/blob/master/images/za1%3B12.png)
 ![](https://github.com/igritt13/LabY/blob/master/images/za1%3B14.png)  
+### Мы установили виртуальную машину и настроили в ней RAID и LVM.
 
 ## Задание 2  
 ![](https://github.com/igritt13/LabY/blob/master/images/15.png)  
@@ -23,3 +24,8 @@
 ![](https://github.com/igritt13/LabY/blob/master/images/20.png)  
 ![](https://github.com/igritt13/LabY/blob/master/images/21.png)  
 
+### Мы проимулировали отказ одного из дисков и воостановили его с помощью RAID.  
+
+## Задание 3  
+![](
+![](
