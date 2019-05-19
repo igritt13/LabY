@@ -6,4 +6,4 @@
 ### Лабораторная работа №3 
 
 
-![]
+![](https://github.com/igritt13/LabY/blob/master/images/pJXxdolB4Es.jpg)
