@@ -3,7 +3,7 @@
 Тут вы можете наблюдать мои лабораторные работы по ОS:  
 ### [Лабораторная работа №1](https://github.com/igritt13/LabY/tree/master/git)
 ### [Лабораторная работа №2](https://github.com/igritt13/LabY/tree/master/Lab2)
-### Лабораторная работа №3 
+### [Лабораторная работа №3](https://github.com/igritt13/LabY/tree/master/Lab3)
 
 
 ![](https://github.com/igritt13/LabY/blob/master/images/pJXxdolB4Es.jpg)
