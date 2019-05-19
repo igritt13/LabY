@@ -33,10 +33,14 @@
 ![](https://github.com/igritt13/LabY/blob/master/images/ZA3%3B4.png)
 ![](https://github.com/igritt13/LabY/blob/master/images/ZA3%3B5.png)
 ![](https://github.com/igritt13/LabY/blob/master/images/ZA3%3B5-1.png)
-![](https://github.com/igritt13/LabY/blob/master/images/ZA3%3B5-2.png)
+![](https://github.com/igritt13/LabY/blob/master/images/ZA3%3B5-2.png)  
+На sdb появились разделы sdb1 и sdb2.
 ![](https://github.com/igritt13/LabY/blob/master/images/ZA3%3B5-3.png)
 ![](https://github.com/igritt13/LabY/blob/master/images/ZA3%3B5-4.png)
-![](https://github.com/igritt13/LabY/blob/master/images/ZA3%3B5-5.png)
+![](https://github.com/igritt13/LabY/blob/master/images/ZA3%3B5-5.png)  
+Операцию grub-install /dev/YYY мы выполняли чтобы установить загрузчик группы на новый диск.
+После команды cat /proc/mdstat мы видим, что повился второй RAID массив.
+После команды lsblk -o NAME,SIZE,FSTYPE,TYPE,MOUNTPOINT мы видим, что в директории sbd повился RIAD массив md63.
 ![](https://github.com/igritt13/LabY/blob/master/images/ZA3%3B6.png)
 ![](https://github.com/igritt13/LabY/blob/master/images/ZA3%3B6-1.png)
 ![](https://github.com/igritt13/LabY/blob/master/images/ZA3%3B6-2.png)
@@ -44,6 +48,9 @@
 ![](https://github.com/igritt13/LabY/blob/master/images/ZA3%3B6-3-2.png)
 ![](https://github.com/igritt13/LabY/blob/master/images/ZA3%3B6-4.png)
 ![](https://github.com/igritt13/LabY/blob/master/images/ZA3%3B6-5.png)
+После команды lsblk -o NAME,SIZE,FSTYPE,TYPE,MOUNTPOINT мы видим, что RAID массив уже подключён.
+После команды pvs мы может увидеть, что для нового RAID массива появился физический том.
+Сейчас LV var,log,root находятся на старом диске.
 ![](https://github.com/igritt13/LabY/blob/master/images/ZA3%3B7.png)
 ![](https://github.com/igritt13/LabY/blob/master/images/ZA3%3B8-1.png)
 ![](https://github.com/igritt13/LabY/blob/master/images/ZA3%3B8-2.png)
@@ -73,4 +80,5 @@
 ![](https://github.com/igritt13/LabY/blob/master/images/ZA3%3B21-1.png)
 ![](https://github.com/igritt13/LabY/blob/master/images/ZA3%3B22.png)
 ![](https://github.com/igritt13/LabY/blob/master/images/ZA3%3B22-1.png)
-![](https://github.com/igritt13/LabY/blob/master/images/ZA3%3B22-2.png)
+![](https://github.com/igritt13/LabY/blob/master/images/ZA3%3B22-2.png)  
+###Мы успешно поставили четыре новых диска и перенесли на них данные системы. 
