@@ -81,4 +81,4 @@
 ![](https://github.com/igritt13/LabY/blob/master/images/ZA3%3B22.png)
 ![](https://github.com/igritt13/LabY/blob/master/images/ZA3%3B22-1.png)
 ![](https://github.com/igritt13/LabY/blob/master/images/ZA3%3B22-2.png)  
-###Мы успешно поставили четыре новых диска и перенесли на них данные системы. 
+### Мы успешно поставили четыре новых диска и перенесли на них данные системы. 
