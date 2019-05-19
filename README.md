@@ -6,4 +6,4 @@
 ### Лабораторная работа №3 
 
 
-![](https://github.com/profswarzen/OS-labs/blob/master/lab2/images/art.jpg) 
+![]
